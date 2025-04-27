@@ -17,20 +17,11 @@
 
 ## 🧰 What's Inside
 
-> A few of the tools in this extension:
+> -
 
-- ⚡ **Auto-Tag Electrical Fixtures**  
-  Automate tagging of electrical devices based on type and location.
-
-- 🧱 **BIM Element ID Fetcher**  
-  Quick access to Revit Element IDs for debugging or linking.
-
-- 📊 **Panel Schedule Export**  
-  Export panel schedules from Revit to clean Excel sheets.
-
-*(More tools coming as this hobby grows)*
+*( tools coming as this hobby grows)*
 
 ---
 
-## 📁 Folder Structure
+
 
